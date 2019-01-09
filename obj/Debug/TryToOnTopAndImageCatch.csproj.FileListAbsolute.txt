@@ -1,0 +1,107 @@
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.exe.config
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.exe
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.pdb
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.Form1.resources
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.Properties.Resources.resources
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.GenerateResource.Cache
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.exe
+c:\users\stas\documents\visual studio 2017\Projects\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.pdb
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.exe.config
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.exe
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.pdb
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.exe
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.pdb
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csprojResolveAssemblyReference.cache
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.Form1.resources
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.Properties.Resources.resources
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.GenerateResource.Cache
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.exe.config
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.exe
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.pdb
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.dll
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.DXGI.dll
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.xml
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.DXGI.xml
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csprojResolveAssemblyReference.cache
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.Form1.resources
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.Properties.Resources.resources
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.GenerateResource.Cache
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.CoreCompileInputs.cache
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.exe
+C:\Users\chila\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.pdb
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.DXGI.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.DXGI.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.CoreCompileInputs.cache
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyHook32.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyHook32Svc.exe
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyHook64.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyHook64Svc.exe
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyLoad32.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyLoad64.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\EasyHook.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Desktop.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\EasyHook.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Desktop.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\error_enter.png
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\fire_seamless_tile_by_suicidecrew.jpg
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\error_6473.png
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\error_click.png
+C:\Users\SagSaj\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.CopyComplete
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csprojAssemblyReference.cache
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.Form1.resources
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.Properties.Resources.resources
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.GenerateResource.cache
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.CoreCompileInputs.cache
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.exe
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.pdb
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyHook32.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyHook32Svc.exe
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyHook64.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyHook64Svc.exe
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyLoad32.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\EasyLoad64.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\error_6473.png
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\error_click.png
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\error_enter.png
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\Resources\fire_seamless_tile_by_suicidecrew.jpg
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.exe.config
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.exe
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\TryToOnTopAndImageCatch.pdb
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\EasyHook.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Desktop.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\EasyHook.xml
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.xml
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Desktop.xml
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Stas\Dropbox\TryToOnTopAndImageCatch\TryToOnTopAndImageCatch\obj\Debug\TryToOnTopAndImageCatch.csproj.CopyComplete
